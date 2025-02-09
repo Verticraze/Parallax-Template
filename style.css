@@ -93,3 +93,10 @@ section h1
     font-size: 5rem;
     z-index: 10;
 }
+
+#Para
+{
+    background: linear-gradient(#2b1055,#7597de);
+    font-size: 4rem;
+    color: #fff;
+}
